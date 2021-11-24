@@ -1,2 +1,24 @@
 hi
 
+
+pwd
+  209  ls
+  210  git clone https://github.com/Himavaishnavi/amex1.git
+  211  ls
+  212  cd amex1
+  213  touch file1
+  214  ls
+  215  git add .
+  216  git commit -m "i have added a file"
+  217  git push origin master
+       cd ..
+  220  ls
+  221  cd amex1
+  222  ls
+  223  rm -rf file1
+  vi file2 (insert text esc button not working then cntl+o)
+ :wq
+ git log
+ git revert 5d69
+histoy
+
